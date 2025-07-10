@@ -13,12 +13,13 @@ public class CoVariantOverriding {
  class Red extends Colour{
 	 protected Colour getColour() {
 		 Colour s = new Red();
-		 return s;
+		 return s;//
 	 
  }
 }
  
  public static void main(String[] args) {
-	 //TODO auto generated method
+//	 TODO auto generated method  
+	 
  }
 }

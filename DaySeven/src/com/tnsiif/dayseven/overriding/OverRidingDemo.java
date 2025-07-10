@@ -8,7 +8,7 @@ public class OverRidingDemo {
 		
 		rbi=new Sbi();
 		System.out.println(rbi.getRateofInterest());
-		
+		//
 		rbi=new ICICI();
 		System.out.println(rbi.getRateofInterest());
 		

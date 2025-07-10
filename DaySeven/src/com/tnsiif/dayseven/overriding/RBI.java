@@ -6,6 +6,6 @@ public class RBI {
 	{
 		System.out.println("Base Rate of Interest");
 		return 6.7f;
-	}
+	}//
 
 }
