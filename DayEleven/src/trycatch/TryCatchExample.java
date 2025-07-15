@@ -16,7 +16,7 @@ public class TryCatchExample {
 	}
 	catch ( ArithmeticException e )
 	{
-		System.err.println(e);
+		System.err.println("I am in catch block :"+e.getMessage());
 	}
 
 	}
