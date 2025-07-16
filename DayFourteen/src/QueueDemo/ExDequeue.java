@@ -1,9 +1,9 @@
-package ListDemo;
+package QueueDemo;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class ExDeque {
+public class ExDequeue {
 
 	public static void main(String[] args) {
 	
@@ -32,3 +32,4 @@ public class ExDeque {
 	}
 
 }
+
